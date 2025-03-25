@@ -7,6 +7,7 @@ disable=
       W0703, # Catching too general exception Exception
       C0209, # Consider-usinf-f-string
       E0015, # unrecognized-option
+      W0238, #unused-private-member
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
 # 3 compatible code, which means that the block might have code that exists
