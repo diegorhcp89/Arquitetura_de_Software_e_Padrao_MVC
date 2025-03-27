@@ -16,7 +16,7 @@ def test_list_pets():
         "data": {
             "type": "Pets",
             "count": 2,
-            "attributed": [
+            "attributes": [
                 {"name": "Fluffy", "id": 4},
                 {"name": "Buddy", "id": 47}
             ]

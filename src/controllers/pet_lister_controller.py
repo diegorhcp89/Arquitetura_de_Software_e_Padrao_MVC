@@ -24,6 +24,6 @@ class PetListerController:
             "data": {
                 "type": "Pets",
                 "count": len(formatted_pets),
-                "attributed": formatted_pets
+                "attributes": formatted_pets
             }
         }
